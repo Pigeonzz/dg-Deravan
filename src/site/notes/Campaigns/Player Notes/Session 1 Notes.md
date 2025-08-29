@@ -17,7 +17,7 @@
 - They hear shouting and panic from the main street. They come and see the scene of a group of goblin assassins surrounding a group of nobles, with no guards near them.
 - They fight off the goblins long enough for city guards to come and help them.
 - They rally the nobles and herd them to a safe spot before helping the city guards. 
-- They meet and heal [[Dallen Highstone\|Dallen Highstone]] after the battle. Gives the family insignia, as thanks saving their lives and wiping out the assassins.
+- They meet and heal [[Names of Note/Dallen Highstone\|Dallen Highstone]] after the battle. Gives the family insignia, as thanks saving their lives and wiping out the assassins.
 - Dallen Highstone told them to come to the Vrean Castle to receive rewards later on.
 - Hoppe and Ligaya loot the dead bodies.
 
