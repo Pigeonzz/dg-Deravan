@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anthology/chronicles/a-ratling-a-human-and-a-halfling-walk-into-a-bar/a-ratling-a-human-and-a-halfling-walked-into-a-bar/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/anthology/chronicles/a-ratling-a-human-and-a-halfling-walk-into-a-bar/a-ratling-a-human-and-a-halfling-walked-into-a-bar/"}
 ---
 
 
